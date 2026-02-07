@@ -64,8 +64,52 @@ The linked resources on the website include **solutions**, making them useful fo
 This GitHub repository does **not host PDFs or full question sets**.  
 All **complete test papers, worksheets, extra questions, and solutions are available free of cost** on the official website of Udgam Welfare Foundation.
 
-🔗 **Main Resource Hub for Class 9 Maths:**  
+
+🔗 **Main Resource Hub for Class 9 Maths:**
 [https://udgamwelfarefoundation.com/chapter-wise-test-papers-for-class-9-maths-pdf/](https://udgamwelfarefoundation.com/chapter-wise-test-papers-for-class-9-maths-pdf/)
+
+🔗 **Class 9 Maths Chapter 1 – Number System PDF:**
+[https://udgamwelfarefoundation.com/class-9-maths-chapter-1-number-system-pdf-test-papers-questions/](https://udgamwelfarefoundation.com/class-9-maths-chapter-1-number-system-pdf-test-papers-questions/)
+
+🔗 **Polynomials Class 9 PDF:**
+[https://udgamwelfarefoundation.com/polynomials-class-9-pdf/](https://udgamwelfarefoundation.com/polynomials-class-9-pdf/)
+
+🔗 **Coordinate Geometry Class 9 Questions PDF:**
+[https://udgamwelfarefoundation.com/coordinate-geometry-class-9-questions-pdf/](https://udgamwelfarefoundation.com/coordinate-geometry-class-9-questions-pdf/)
+
+🔗 **Linear Equations in Two Variables Class 9 PDF:**
+[https://udgamwelfarefoundation.com/linear-equations-in-two-variables-class-9-pdf/](https://udgamwelfarefoundation.com/linear-equations-in-two-variables-class-9-pdf/)
+
+🔗 **Euclid Geometry Class 9 Test Paper PDF:**
+[https://udgamwelfarefoundation.com/euclid-geometry-class-9-test-paper-pdf/](https://udgamwelfarefoundation.com/euclid-geometry-class-9-test-paper-pdf/)
+
+🔗 **Lines and Angles Class 9 Test Paper PDF:**
+[https://udgamwelfarefoundation.com/lines-and-angles-class-9-test-paper-pdf-chapter-4-maths/](https://udgamwelfarefoundation.com/lines-and-angles-class-9-test-paper-pdf-chapter-4-maths/)
+
+🔗 **Class 9 Maths – Triangles PDF:**
+[https://udgamwelfarefoundation.com/class-9-maths-triangles-pdf/](https://udgamwelfarefoundation.com/class-9-maths-triangles-pdf/)
+
+🔗 **Class 9 Quadrilaterals Test Paper PDF:**
+[https://udgamwelfarefoundation.com/class-9-quadrilaterals-test-paper-pdf/](https://udgamwelfarefoundation.com/class-9-quadrilaterals-test-paper-pdf/)
+
+🔗 **Areas of Parallelograms and Triangles Class 9 PDF:**
+[https://udgamwelfarefoundation.com/areas-of-parallelograms-and-triangles-class-9-pdf/](https://udgamwelfarefoundation.com/areas-of-parallelograms-and-triangles-class-9-pdf/)
+
+🔗 **Class 9 Circles Test Paper PDF:**
+[https://udgamwelfarefoundation.com/class-9-circles-test-paper-pdf/](https://udgamwelfarefoundation.com/class-9-circles-test-paper-pdf/)
+
+🔗 **Class 9 Heron’s Formula Test Paper PDF:**
+[https://udgamwelfarefoundation.com/class-9-herons-formula-test-paper-pdf/](https://udgamwelfarefoundation.com/class-9-herons-formula-test-paper-pdf/)
+
+🔗 **Surface Area and Volume Class 9 Test Paper PDF:**
+[https://udgamwelfarefoundation.com/surface-area-and-volume-class-9-test-paper-pdf/](https://udgamwelfarefoundation.com/surface-area-and-volume-class-9-test-paper-pdf/)
+
+🔗 **Class 9 Statistics Test Paper PDF:**
+[https://udgamwelfarefoundation.com/class-9-statistics-test-paper-pdf/](https://udgamwelfarefoundation.com/class-9-statistics-test-paper-pdf/)
+
+🔗 **Class 9 Probability Test Paper PDF with Solutions:**
+[https://udgamwelfarefoundation.com/class-9-probability-test-paper-pdf-with-solutions/](https://udgamwelfarefoundation.com/class-9-probability-test-paper-pdf-with-solutions/)
+
 
 Students are encouraged to use this repository as a **starting point**, and then visit the website for full downloadable material.
 
